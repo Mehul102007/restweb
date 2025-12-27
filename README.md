@@ -194,9 +194,13 @@ menu.html
 ## OUTPUT:
 
 ![SCREEN 1](https://github.com/user-attachments/assets/785ce3cf-3849-4bb5-a66d-0af09a2d68d1)
-![alt text](<Screenshot 2025-12-23 194532.png>) 
-![alt text](<Screenshot 2025-12-23 194547.png>) 
-![alt text](<Screenshot 2025-12-23 194615.png>)
+
+![SCREEN2](https://github.com/user-attachments/assets/d9bc152e-015b-47b1-a64d-e94c27989b9f)
+
+![SCREEN 3](https://github.com/user-attachments/assets/c56fb74c-1486-4cbb-ae01-093354d53f0e)
+
+![SCREEN 4](https://github.com/user-attachments/assets/74c09957-ec0c-4a27-be15-07a41691043d)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
